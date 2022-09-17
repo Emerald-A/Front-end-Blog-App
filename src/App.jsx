@@ -1,13 +1,13 @@
 
-import './App.css'
-import Signup from './components/signup/Signup'
+// import './App.css'
+import Login from './components/login/Login'
 
 function App() {
   
 
   return (
    <main>
-     <Signup/>
+     <Login />
    </main>
   )
 }
